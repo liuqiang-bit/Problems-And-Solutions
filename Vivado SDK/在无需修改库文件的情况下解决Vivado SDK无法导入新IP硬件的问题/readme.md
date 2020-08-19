@@ -1,12 +1,16 @@
 # Vivado SDK无法更新硬件信息解决方法
 
-作者：GUDONG		时间：2020/08/15		GitHub地址：https://github.com/liuqiang-bit/Problems-And-Solutions.git
+GitHub地址：https://github.com/liuqiang-bit/Problems-And-Solutions.git
 
-> 目录
+作者：GUDONG		时间：2020/08/15		软件：Vivado 2018.3、Vivado SDK 2018.3
+
+------
+
+> ***目录***
 
 [TOC]
 
-
+------
 
 ## 一.问题描述
 
