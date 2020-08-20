@@ -26,7 +26,7 @@ GitHub地址：https://github.com/liuqiang-bit/Problems-And-Solutions.git
 
 ### 4.run Implimentation
 
-> ​		**此过程很重要，可以知道时序是否和要求，若时序不合要求，SDK不会导入时序不合要求的模块驱动。有时候SDK无法更新硬件其实是模块时序不合要求，可以看看Implimentation报告是不是时序问题。**
+> ​		**此过程很重要，可以知道时序是否和要求，以及资源使用量若。
 
 ​		Synthesis结束后弹出此框进行Implimentation
 
