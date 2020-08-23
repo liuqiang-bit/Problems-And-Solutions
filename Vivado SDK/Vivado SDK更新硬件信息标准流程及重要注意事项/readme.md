@@ -26,7 +26,7 @@ GitHub地址：https://github.com/liuqiang-bit/Problems-And-Solutions.git
 
 ### 4.run Implimentation
 
-> ​		**此过程很重要，可以知道时序是否和要求，以及资源使用量若。
+> ​		**此过程很重要，可以知道时序是否和要求，以及资源使用量若。有时SDK不导入硬件信息也是由于时序不合要求。
 
 ​		Synthesis结束后弹出此框进行Implimentation
 
